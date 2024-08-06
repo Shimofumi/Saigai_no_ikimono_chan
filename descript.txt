@@ -1,0 +1,11 @@
+charset,UTF-8
+type,shell
+name,「海で一番強い生き物」ちゃん
+id,Saigai_no_ikimono_chan
+
+craftman,Shimofumi
+craftmanw,しもふみ
+craftmanurl,https://ukadon.shillest.net/@Shimofumi
+
+seriko.use_self_alpha,1
+seriko.alignmenttodesktop,free
